@@ -1,0 +1,121 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 13 Aug 2022 01:05:01 at https://downloadbull.com +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://downloadbull.com -O1 "C:\My Web Sites\Downloadbul" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+01:05:19	Error: 	"Method Not Allowed" (405) at link https://downloadbull.com/xmlrpc.php (from https://downloadbull.com/)
+01:05:44	Error: 	"Bad Request" (400) at link https://downloadbull.com/wp-admin/admin-ajax.php (from https://downloadbull.com/)
+01:11:42	Warning: 	Moved Permanently for https://downloadbull.com/page/1/
+01:11:42	Warning: 	File has moved from https://downloadbull.com/page/1/ to https://downloadbull.com/
+01:28:21	Warning: 	Moved Permanently for https://downloadbull.com/category/graphic/page/1/
+01:28:21	Warning: 	File has moved from https://downloadbull.com/category/graphic/page/1/ to https://downloadbull.com/category/graphic/
+01:29:21	Warning: 	Moved Permanently for https://downloadbull.com/category/graphic/image-editing-tools/page/1/
+01:29:21	Warning: 	File has moved from https://downloadbull.com/category/graphic/image-editing-tools/page/1/ to https://downloadbull.com/category/graphic/image-editing-tools/
+01:30:41	Warning: 	Moved Permanently for https://downloadbull.com/category/multimedia-tools/page/1/
+01:30:41	Warning: 	File has moved from https://downloadbull.com/category/multimedia-tools/page/1/ to https://downloadbull.com/category/multimedia-tools/
+01:31:40	Warning: 	Moved Permanently for https://downloadbull.com/category/maintenance/page/1/
+01:31:40	Warning: 	File has moved from https://downloadbull.com/category/maintenance/page/1/ to https://downloadbull.com/category/maintenance/
+01:32:53	Warning: 	Moved Permanently for https://downloadbull.com/category/educational-tools/pdf/page/1/
+01:32:53	Warning: 	File has moved from https://downloadbull.com/category/educational-tools/pdf/page/1/ to https://downloadbull.com/category/educational-tools/pdf/
+01:34:08	Warning: 	Moved Permanently for https://downloadbull.com/category/utilities/page/1/
+01:34:08	Warning: 	File has moved from https://downloadbull.com/category/utilities/page/1/ to https://downloadbull.com/category/utilities/
+01:34:50	Warning: 	Moved Permanently for https://downloadbull.com/category/educational-tools/page/1/
+01:34:50	Warning: 	File has moved from https://downloadbull.com/category/educational-tools/page/1/ to https://downloadbull.com/category/educational-tools/
+01:36:01	Warning: 	Moved Permanently for https://downloadbull.com/category/popular-tools/page/1/
+01:36:01	Warning: 	File has moved from https://downloadbull.com/category/popular-tools/page/1/ to https://downloadbull.com/category/popular-tools/
+01:36:50	Warning: 	Moved Permanently for https://downloadbull.com/portable-icecream-pdf-converter-2-8-free-download/
+01:36:50	Warning: 	File has moved from https://downloadbull.com/portable-icecream-pdf-converter-2-8-free-download/ to https://downloadbull.com/icecream-pdf-converter-portable-2-8-free-download/
+01:38:07	Warning: 	Moved Permanently for https://downloadbull.com/category/recovery/recovery-data/page/1/
+01:38:07	Warning: 	File has moved from https://downloadbull.com/category/recovery/recovery-data/page/1/ to https://downloadbull.com/category/recovery/recovery-data/
+01:39:32	Warning: 	Moved Permanently for https://downloadbull.com/category/graphic/3d/page/1/
+01:39:32	Warning: 	File has moved from https://downloadbull.com/category/graphic/3d/page/1/ to https://downloadbull.com/category/graphic/3d/
+01:40:28	Warning: 	Moved Permanently for https://downloadbull.com/category/maintenance/antivirus-antimalware-tools/page/1/
+01:40:28	Warning: 	File has moved from https://downloadbull.com/category/maintenance/antivirus-antimalware-tools/page/1/ to https://downloadbull.com/category/maintenance/antivirus-antimalware-tools/
+01:43:09	Warning: 	Moved Permanently for https://downloadbull.com/category/multimedia-tools/audio/page/1/
+01:43:09	Warning: 	File has moved from https://downloadbull.com/category/multimedia-tools/audio/page/1/ to https://downloadbull.com/category/multimedia-tools/audio/
+01:43:27	Warning: 	Moved Permanently for https://downloadbull.com/category/utilities/burning-tools/page/1/
+01:43:27	Warning: 	File has moved from https://downloadbull.com/category/utilities/burning-tools/page/1/ to https://downloadbull.com/category/utilities/burning-tools/
+01:45:02	Warning: 	Moved Permanently for https://downloadbull.com/category/cad-tools/page/1/
+01:45:02	Warning: 	File has moved from https://downloadbull.com/category/cad-tools/page/1/ to https://downloadbull.com/category/cad-tools/
+01:45:45	Warning: 	Moved Permanently for https://downloadbull.com/category/utilities/data-compression/page/1/
+01:45:45	Warning: 	File has moved from https://downloadbull.com/category/utilities/data-compression/page/1/ to https://downloadbull.com/category/utilities/data-compression/
+01:46:13	Warning: 	Moved Permanently for https://downloadbull.com/category/development/page/1/
+01:46:13	Warning: 	File has moved from https://downloadbull.com/category/development/page/1/ to https://downloadbull.com/category/development/
+01:47:09	Warning: 	Moved Permanently for https://downloadbull.com/category/utilities/file-sharing/page/1/
+01:47:09	Warning: 	File has moved from https://downloadbull.com/category/utilities/file-sharing/page/1/ to https://downloadbull.com/category/utilities/file-sharing/
+01:48:27	Warning: 	Moved Permanently for https://downloadbull.com/category/graphic/image-conversion-tools/page/1/
+01:48:27	Warning: 	File has moved from https://downloadbull.com/category/graphic/image-conversion-tools/page/1/ to https://downloadbull.com/category/graphic/image-conversion-tools/
+01:48:46	Warning: 	Moved Permanently for https://downloadbull.com/category/multimedia-tools/media-converter/page/1/
+01:48:46	Warning: 	File has moved from https://downloadbull.com/category/multimedia-tools/media-converter/page/1/ to https://downloadbull.com/category/multimedia-tools/media-converter/
+01:50:59	Warning: 	Moved Permanently for https://downloadbull.com/category/multimedia-tools/media-player/page/1/
+01:50:59	Warning: 	File has moved from https://downloadbull.com/category/multimedia-tools/media-player/page/1/ to https://downloadbull.com/category/multimedia-tools/media-player/
+01:52:43	Warning: 	Moved Permanently for https://downloadbull.com/category/networking-tools/page/1/
+01:52:43	Warning: 	File has moved from https://downloadbull.com/category/networking-tools/page/1/ to https://downloadbull.com/category/networking-tools/
+01:53:46	Warning: 	Moved Permanently for https://downloadbull.com/category/educational-tools/office-suites/page/1/
+01:53:46	Warning: 	File has moved from https://downloadbull.com/category/educational-tools/office-suites/page/1/ to https://downloadbull.com/category/educational-tools/office-suites/
+01:54:24	Warning: 	Moved Permanently for https://downloadbull.com/category/operating-system/page/1/
+01:54:24	Warning: 	File has moved from https://downloadbull.com/category/operating-system/page/1/ to https://downloadbull.com/category/operating-system/
+01:55:35	Warning: 	Moved Permanently for https://downloadbull.com/category/recovery/page/1/
+01:55:35	Warning: 	File has moved from https://downloadbull.com/category/recovery/page/1/ to https://downloadbull.com/category/recovery/
+01:56:07	Warning: 	Moved Permanently for https://downloadbull.com/category/maintenance/registry-tools/page/1/
+01:56:07	Warning: 	File has moved from https://downloadbull.com/category/maintenance/registry-tools/page/1/ to https://downloadbull.com/category/maintenance/registry-tools/
+01:56:43	Warning: 	Moved Permanently for https://downloadbull.com/category/multimedia-tools/screen-capturing/page/1/
+01:56:43	Warning: 	File has moved from https://downloadbull.com/category/multimedia-tools/screen-capturing/page/1/ to https://downloadbull.com/category/multimedia-tools/screen-capturing/
+01:58:00	Warning: 	Moved Permanently for https://downloadbull.com/category/multimedia-tools/video-editor/page/1/
+01:58:00	Warning: 	File has moved from https://downloadbull.com/category/multimedia-tools/video-editor/page/1/ to https://downloadbull.com/category/multimedia-tools/video-editor/
+01:58:44	Warning: 	Moved Permanently for https://downloadbull.com/category/operating-system/windows/page/1/
+01:58:44	Warning: 	File has moved from https://downloadbull.com/category/operating-system/windows/page/1/ to https://downloadbull.com/category/operating-system/windows/
+01:59:06	Warning: 	Moved Permanently for https://downloadbull.com/portable-sparkol-videoscribe-pro-3-0-free-download/
+01:59:06	Warning: 	File has moved from https://downloadbull.com/portable-sparkol-videoscribe-pro-3-0-free-download/ to https://downloadbull.com/?p=7813
+02:01:18	Warning: 	Moved Permanently for https://downloadbull.com/portable-luminar-4-0-free-download/
+02:01:18	Warning: 	File has moved from https://downloadbull.com/portable-luminar-4-0-free-download/ to https://downloadbull.com/portable-luminar-4-free-download/
+02:01:26	Warning: 	Moved Permanently for https://downloadbull.com/portable-adobe-photoshop-cc-2018-x64-19-0-free-download/
+02:01:26	Warning: 	File has moved from https://downloadbull.com/portable-adobe-photoshop-cc-2018-x64-19-0-free-download/ to https://downloadbull.com/adobe-photoshop-cc-2018-x64-19-0-portable-edition-download/
+02:14:20	Warning: 	Moved Permanently for https://downloadbull.com/portable-marmoset-toolbag-3-0-free-download/
+02:14:20	Warning: 	File has moved from https://downloadbull.com/portable-marmoset-toolbag-3-0-free-download/ to https://downloadbull.com/portable-marmoset-toolbag-3-0-free-download-90178/
+02:18:34	Warning: 	Moved Permanently for https://downloadbull.com/portable-youtubeget-6-8-1/
+02:18:34	Warning: 	File has moved from https://downloadbull.com/portable-youtubeget-6-8-1/ to https://downloadbull.com/portable-youtubeget-6-8-1-free-download-90178/
+02:29:47	Warning: 	Moved Permanently for https://downloadbull.com/portable-adobe-premiere-pro-cc-2017-v11-0-2-free-download/
+02:29:47	Warning: 	File has moved from https://downloadbull.com/portable-adobe-premiere-pro-cc-2017-v11-0-2-free-download/ to https://downloadbull.com/portable-adobe-premiere-pro-cc-2017-v11-0-2-free/
+02:30:19	Error: 	"Not Found" (404) at link https://downloadbull.com/?p=7813 (from https://downloadbull.com/portable-sparkol-videoscribe-pro-3-0-free-download/)
+02:37:01	Warning: 	Moved Permanently for https://downloadbull.com/download-portable-icecream-pdf-converter-2-8-free/
+02:37:01	Warning: 	File has moved from https://downloadbull.com/download-portable-icecream-pdf-converter-2-8-free/ to https://downloadbull.com/icecream-pdf-converter-portable-2-8-free-download/
+02:41:38	Warning: 	Moved Permanently for https://downloadbull.com/portable-adobe-effects-cc-2018-15-0-free-download/
+02:41:38	Warning: 	File has moved from https://downloadbull.com/portable-adobe-effects-cc-2018-15-0-free-download/ to https://downloadbull.com/portable-adobe-effects-cc-2018-15-0-free/
+02:41:45	Warning: 	Moved Permanently for https://downloadbull.com/portable-autodesk-autocad-2017-free-download/
+02:41:45	Warning: 	File has moved from https://downloadbull.com/portable-autodesk-autocad-2017-free-download/ to https://downloadbull.com/portable-autodesk-autocad-2017-free/
+02:41:45	Warning: 	Moved Permanently for https://downloadbull.com/autodesk-autocad-2018-free-download/
+02:41:45	Warning: 	File has moved from https://downloadbull.com/autodesk-autocad-2018-free-download/ to https://downloadbull.com/autocad-2018-free-download/
+02:43:48	Warning: 	Moved Permanently for https://downloadbull.com/portable-utorrent-3-4-9-free-download/
+02:43:48	Warning: 	File has moved from https://downloadbull.com/portable-utorrent-3-4-9-free-download/ to https://downloadbull.com/portable-utorrent-3-4-free-download/
+02:44:17	Warning: 	Moved Permanently for https://downloadbull.com/portable-youtubeget-6-8-1-free-download-90178/
+02:44:17	Warning: 	File has moved from https://downloadbull.com/portable-youtubeget-6-8-1-free-download-90178/ to https://downloadbull.com/portable-youtubeget-6-8-1-free-download-90179/
+02:51:55	Warning: 	Moved Permanently for https://downloadbull.com/portable-adobe-photoshop-cc-2018-x86-19-0-free-download/
+02:51:55	Warning: 	File has moved from https://downloadbull.com/portable-adobe-photoshop-cc-2018-x86-19-0-free-download/ to https://downloadbull.com/portable-adobe-photoshop-cc-2018-x86-19-0-free/
+02:59:42	Warning: 	Moved Permanently for https://downloadbull.com/portable-apeaksoft-data-recovery-1-1-free-download/
+02:59:42	Warning: 	File has moved from https://downloadbull.com/portable-apeaksoft-data-recovery-1-1-free-download/ to https://downloadbull.com/portable-apeaksoft-data-recovery-download/
+02:59:55	Warning: 	Moved Permanently for https://downloadbull.com/portable-incomedia-website-x5-professional-free-download/
+02:59:55	Warning: 	File has moved from https://downloadbull.com/portable-incomedia-website-x5-professional-free-download/ to https://downloadbull.com/portable-incomedia-website-x5-professional-free/
+03:02:55	Error: 	"Not Found" (404) at link https://downloadbull.com/portable-mindjet-mindmanager-2018-free-download/ (from https://downloadbull.com/portable-mindgenius-business-2018-7-0-free-download/)
+03:04:21	Warning: 	Moved Permanently for https://downloadbull.com/portable-coreldraw-graphics-suite-2017-19-0-free-download/
+03:04:21	Warning: 	File has moved from https://downloadbull.com/portable-coreldraw-graphics-suite-2017-19-0-free-download/ to https://downloadbull.com/portable-coreldraw-graphics-suite-2017-19-0-free/
+03:11:12	Warning: 	Moved Permanently for https://downloadbull.com/portable-keepvid-pro-6-3-free-download/
+03:11:12	Warning: 	File has moved from https://downloadbull.com/portable-keepvid-pro-6-3-free-download/ to https://downloadbull.com/portable-keepvid-pro-6-free-download-1/
+03:24:49	Warning: 	Moved Permanently for https://downloadbull.com/portable-proteus-pcb-design-8-6-professional-sp2-free-download/
+03:24:49	Warning: 	File has moved from https://downloadbull.com/portable-proteus-pcb-design-8-6-professional-sp2-free-download/ to https://downloadbull.com/portable-proteus-pcb-design-8-6-professional-sp2-free/
+03:32:07	Warning: 	Moved Permanently for https://downloadbull.com/portable-luminar-3-0-free-download/
+03:32:07	Warning: 	File has moved from https://downloadbull.com/portable-luminar-3-0-free-download/ to https://downloadbull.com/portable-luminar-3-free-download/
+03:38:04	Warning: 	Moved Permanently for https://downloadbull.com/portable-auslogics-boostspeed-9-1-free-download/
+03:38:04	Warning: 	File has moved from https://downloadbull.com/portable-auslogics-boostspeed-9-1-free-download/ to https://downloadbull.com/portable-auslogics-boostspeed-9-1-free/
+03:44:13	Warning: 	Moved Permanently for https://downloadbull.com/portable-maxon-cinema-4d-studio-r14-free-download/
+03:44:13	Warning: 	File has moved from https://downloadbull.com/portable-maxon-cinema-4d-studio-r14-free-download/ to https://downloadbull.com/portable-maxon-cinema-4d-studio-r14-free/
+03:47:33	Warning: 	Moved Permanently for https://downloadbull.com/portable-thundersoft-video-editor-7-3-free-download/
+03:47:33	Warning: 	File has moved from https://downloadbull.com/portable-thundersoft-video-editor-7-3-free-download/ to https://downloadbull.com/portable-thundersoft-video-editor-7-3-free/
+03:48:32	Warning: 	Moved Permanently for https://downloadbull.com/autodesk-autocad-civil-3d-2018-free-download/
+03:48:32	Warning: 	File has moved from https://downloadbull.com/autodesk-autocad-civil-3d-2018-free-download/ to https://downloadbull.com/autodesk-autocad-civil-3d-2018-free/
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 hours 51 minutes 28 seconds : 14596 links scanned, 14538 files written (530648707 bytes overall) [536080783 bytes received at 52107 bytes/sec], 1071777 bytes transferred using HTTP compression in 7 files, ratio 24%, 9.0 requests per connection
+(4 errors, 106 warnings, 0 messages)
